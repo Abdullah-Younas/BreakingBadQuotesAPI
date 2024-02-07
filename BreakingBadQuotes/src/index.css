@@ -1,0 +1,38 @@
+:root {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+  background-color: #242424;
+  color: whitesmoke;
+  margin: 10px;
+  font-size: 1.5em;
+}
+body{
+  transition: all 0.5s;
+}
+h1{
+  color: rgb(201, 92, 92);
+  text-decoration: underline;
+  text-shadow: 4px 4px 10px rgb(240, 0, 0);
+}
+h2{
+  color: rgb(100, 100, 100);
+  text-shadow: 4px 4px 10px rgb(73, 73, 72);
+  text-decoration: underline;
+}
+h3{
+  color: rgb(100, 100, 100);
+  text-shadow: 4px 4px 10px rgb(73, 73, 72);
+  text-decoration: underline;
+}
+h4{
+  color: rgb(197, 197, 197);
+}
+img{
+  float: right;
+  margin-right: 300px;
+  transform: translateY(100px);
+  border-radius: 15px;
+  width: 250px;
+  height: auto;
+  outline: 5px solid rgb(248, 141, 141);
+  box-shadow: 15px 15px 20px rgb(255, 0, 0);
+}
